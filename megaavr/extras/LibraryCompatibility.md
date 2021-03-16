@@ -8,7 +8,7 @@ Please include information that uniquely identifies the library, as popular libr
 | VL53L0X    .|            .| "Pololu"                                             .|          Yes   .|             Yes .|                        .|
 | VEML6070   .|            .| 'Adafruit"                                           .|          Yes   .|             Yes .|                        .|
 | MLX90614   .|            .|https://github.com/adafruit/Adafruit-MLX90614-Library  |          Yes   .|             Yes .|                        .|
-|            .|            .|                                                      .|                .|                 .|                        .|
+| LCD_I2C    .|            .| https://github.com/johnrickman/LiquidCrystal_I2C     .| W/Arch. warning |             Yes .|                        .|
 |            .|            .|                                                      .|                .|                 .|                        .|
 |            .|            .|                                                      .|                .|                 .|                        .|
 |            .|            .|                                                      .|                .|                 .|                        .|
